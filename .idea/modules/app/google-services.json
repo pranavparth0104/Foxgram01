@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304888981614",
+    "firebase_url": "https://cheese-f2382.firebaseio.com",
+    "project_id": "cheese-f2382",
+    "storage_bucket": "cheese-f2382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304888981614:android:d177d9ad1e96540520de7f",
+        "android_client_info": {
+          "package_name": "com.example.cheese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304888981614-scd3q6an70067h9veehe2k9ohd6qlke5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cheese",
+            "certificate_hash": "c5bdd851962f0258c93c76113d03b7bc57684c37"
+          }
+        },
+        {
+          "client_id": "304888981614-ta4poevu3m92ka5hom7736hpuen6g0ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaDFc2sRffxRmyZ0krBlNhimcZl15Zn2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304888981614-ta4poevu3m92ka5hom7736hpuen6g0ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
